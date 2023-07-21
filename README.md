@@ -1,4 +1,4 @@
-# Langchain Summarizer - GitHub Repository
+# Langchain Summarizer
 
 ## Introduction
 
