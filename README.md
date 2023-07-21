@@ -1,4 +1,5 @@
 # Langchain Summarizer
+![image](https://github.com/Sudhanshu1st/streamlit-app/assets/109865453/4c0d6c5b-ed65-4760-856d-03a0fb141eb7)
 
 ## Introduction
 
