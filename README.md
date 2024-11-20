@@ -4,8 +4,7 @@
 App Link: https://app-app-guc2wa4ax5.streamlit.app/#summarize-url
 ## Introduction
 
-Langchain Summarizer is a simple web application that leverages the power of Langchain and OpenAI's GPT to automatically generate summaries of web page content based on the provided URL. This project aims to provide users with a convenient and efficient way to extract key information and main points from lengthy articles, blog posts, news, and other web pages.
-
+Langchain Summarizer is a simple web app built with Langchain and OpenAI's GPT that lets you summarize any web page by just providing its URL. It helps quickly extract the main points from articles, blogs, news, or any other content online.
 ## Features
 
 - **URL Summarization**: Users can input any valid URL, and the application will process the content to generate a concise and coherent summary.
